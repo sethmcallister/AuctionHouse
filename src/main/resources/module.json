@@ -1,0 +1,6 @@
+{
+  "name": "AuctionHouse",
+  "main": "com.islesmc.auctionhouse.Main",
+  "version": "1.0-SNAPSHOT",
+  "description": "Auction house plugin"
+}
